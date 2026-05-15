@@ -11,14 +11,14 @@ Voxera is an end-to-end Computer Vision system designed to translate Indian Sign
 - **Asynchronous TTS:** Multi-threaded Text-to-Speech allows uninterrupted visual inference.
 
 ## 📁 Repository Structure
-- `extract_data.py`: Pre-processes raw video into 1:1 square-cropped frames.
+
 - `train.py`: The training pipeline with Automatic Mixed Precision (AMP).
 - `webcam.py`: The live inference script for presentation.
-- `requirements.txt`: List of necessary Python libraries.
+
 
 ## 📊 Dataset
 The 35-Class ISL dataset used for this project is available on Kaggle:
-[LINK TO YOUR KAGGLE DATASET HERE]
+[[LINK TO YOUR KAGGLE DATASET HERE]](https://www.kaggle.com/datasets/prabheeshsingh/isl-letters-a-to-z-and-numbers-1-9)
 
 ## 🛠️ Installation
 1. Clone the repo:
