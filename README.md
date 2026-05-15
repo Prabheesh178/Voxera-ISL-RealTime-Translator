@@ -20,7 +20,4 @@ Voxera is an end-to-end Computer Vision system designed to translate Indian Sign
 The 35-Class ISL dataset used for this project is available on Kaggle:
 https://www.kaggle.com/datasets/prabheeshsingh/isl-letters-a-to-z-and-numbers-1-9
 
-## 🛠️ Installation
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Voxera-ISL-RealTime-Translator.git](https://github.com/YOUR_USERNAME/Voxera-ISL-RealTime-Translator.git)
+
